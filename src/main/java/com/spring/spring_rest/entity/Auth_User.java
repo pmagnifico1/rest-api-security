@@ -62,10 +62,4 @@ public class Auth_User {
     this.roles = roles;
   }
 
-
-
-  
-
-  
-
 }
